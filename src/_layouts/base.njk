@@ -18,10 +18,18 @@
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-    <link rel="stylesheet" href="{{ '/css/styles.css' | url }}">
+    <link rel="stylesheet" href="{{ '/styles.css' | url }}">
   </head>
 
   <body>
-    {{ content | safe }}
+    <header>
+      <img src="/assets/logo.svg" alt="">
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      <p>footer</p>
+    </footer>
   </body>
 </html>
