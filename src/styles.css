@@ -40,6 +40,7 @@ body {
 /* A elements that don't have a class get default styles */
 a:not([class]) {
   text-decoration-skip-ink: auto;
+  color: inherit;
 }
 
 /* Make images easier to work with */
@@ -75,9 +76,13 @@ select {
 
 /* Site styles */
 body {
+  background: rgb(211,179,178);
+  background: linear-gradient(90deg, rgba(211,179,178,1) 0%, rgba(252,236,212,1) 25%, rgba(252,236,212,1) 50%, rgba(252,236,212,1) 75%, rgba(211,179,178,1) 100%);
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
+  font-family: 'Zilla Slab', serif;
+  padding-inline: 5%;
 }
 
 header {
@@ -86,9 +91,31 @@ header {
 
 header img {
   margin-inline: auto;
-  max-width: 20rem;
+  max-width: 10rem;
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
 }
 
 main {
   margin-inline: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 1em;
+}
+
+footer {
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
+  text-align: center;
+}
+
+footer img {
+  margin-block: 1rem;
+  margin-inline: auto;
+  max-width: 15rem;
 }
