@@ -25,4 +25,4 @@ With 1 Angel Card - £30.00
 
 ## Tarot Card Reading
 
-a donation still training
+A donation, still training
