@@ -5,11 +5,11 @@ title: Sadie Jane Healing
 
 # Sadie Jane Healing
 
-*Reiki & Seichem - Master & Healer*
+*Reiki and Seichem - Master and Healer*
 
 Indian Head Massage Therapist
 
-## Reiki & Seichem
+## Reiki and Seichem
 
 40 minutes - £25.00
 
