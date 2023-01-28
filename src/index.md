@@ -13,11 +13,17 @@ Indian Head Massage Therapist
 
 40 minutes - £25.00
 
-1 hour - £30.00
+Up to 1 hour - £30.00
 
-With Crystals - £30.00
+With Crystals
 
-With 1 Angel Card - £30.00
+With 1 Angel Card
+
+## Rahanni Celestial Healing
+
+40 minutes - £25.00
+
+Up to 1 hour - £30.00
 
 ## Indian Head Massage
 
