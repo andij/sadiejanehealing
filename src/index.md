@@ -5,7 +5,7 @@ title: Sadie Jane Healing
 
 # Sadie Jane Healing
 
-*Reiki and Seichem - Master and Healer*
+*Reiki, Seichem & Rahanni - Master and Healer*
 
 Indian Head Massage Therapist
 
