@@ -17,7 +17,7 @@ Up to 1 hour - £30.00
 
 With Crystals
 
-With 1 Angel Card
+With 1 Angel card reading
 
 ## Rahanni Celestial Healing
 
