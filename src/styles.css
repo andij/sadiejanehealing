@@ -97,6 +97,7 @@ header img {
 
 main {
   margin-inline: auto;
+  max-width: 20em;
 }
 
 h1, h2, h3 {
